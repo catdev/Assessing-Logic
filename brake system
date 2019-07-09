@@ -1,0 +1,14 @@
+Assessing logic
+
+\** when to apply brake system**/
+
+class brake {
+public static void main (String [] arg)
+{
+/*road conditions */
+wet road =apply brake
+front sensor triggered = apply brake
+side sensor triggered = apply brake
+
+( boolean -expression ) ? if -true-return -this : if-false -return-this;
+ 
